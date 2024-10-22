@@ -8,9 +8,11 @@ Objetivo:</h2>
 <h4>Imagens do Azure</h4>
 
 -------------------------------------------------------
-<div>![azure](https://github.com/user-attachments/assets/197f18b9-e34e-4745-9917-7b4553f07659)</div>
-<div>![show-databases](https://github.com/user-attachments/assets/3ccd3f63-4949-45f9-b102-0ebdf312a85a)</div>
-<div>![show-tables](https://github.com/user-attachments/assets/04e110f6-0a52-4176-9560-fcc7b003675f)</div>
+<div><img src="https://github.com/user-attachments/assets/197f18b9-e34e-4745-9917-7b4553f07659" alt="Descrição da imagem 1"></div>
+<div style="width:30%; display: flex;">
+  <div><img src="https://github.com/user-attachments/assets/3ccd3f63-4949-45f9-b102-0ebdf312a85a" alt="Descrição da imagem 2"></div>
+  <div><img src="https://github.com/user-attachments/assets/04e110f6-0a52-4176-9560-fcc7b003675f" alt="Descrição da imagem 3"></div>
+</div>
 
 -------------------------------------------------------
 Funcionalidades do Relatório.
@@ -25,7 +27,7 @@ O relatório foi dividido em dois principais painéis:
 ![pagina1](https://github.com/user-attachments/assets/611c74db-f183-45b6-8ea2-ac60f56ec6a7)
 ------------------------------------------------------
 - Para realizar a mesclagem entre as tabelas 'employee' e 'departament' foi realizado o seguinte código sql:
-```
+```sql
 SELECT
   e.Fname AS Employee_FirstName, 
   e.Lname AS Employee_LastName, 
