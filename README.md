@@ -5,8 +5,9 @@
 Objetivo:</h2>
 
 <p>Este projeto foi desenvolvido como parte do bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco deste desafio é criar um relatório integrando as tecnologias Azure e MySQL.</p>
+<p>O banco de dados foi criado diretamente no Dash Terminal do Azure.</p>
 
-<h4>Imagens do Azure</h4>
+<h4>Ecemplo em imagens do Azure</h4>
 
 -------------------------------------------------------
 <div>
